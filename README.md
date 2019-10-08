@@ -48,5 +48,13 @@ type="button" value="Blues" width=125 usestyle borderimage="file://rom/borders/b
 onmouseover="window.status='Email Casey'; return true"><img src="http://caseyscaverns.com/gifs/purplespin.gif" width="98" height="60" border="0" alt="spinner"><br>Casey</a> <br> 
 </td></tr></table>
 </td></tr></table>
+  
+   
+<style type="text/css"> 
+#element1 {position: absolute; z-index: 0; top: -1000px; left: -170px;} </style> 
+<div ID="element1"> 
+<table width="130" height="0" bgcolor="black" gradcolor="black" gradangle="90" transparency="50%"><font color="gray"><tr><td align="center" transparency="50%"><font color="gray"> <img src="http://caseys_cavern.tripod.com/backs/blackbg.gif" width="160" height="2500" transparency="50%"> </td></tr></table> 
+</div>
+
 
   
