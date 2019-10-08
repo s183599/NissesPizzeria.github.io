@@ -2,8 +2,16 @@
 Nisses Pizza era jävlar
 
 
+<!DOCTYPE html>
 <html>
-  <h1> hallå </h1>
-  
+<head>
+<title>Nisses Pizzeria</title>
+</head>
+<body>
 
+<h1>Nisses Pizziera</h1>
+<p>Varmt välkomna in i vårt kök hos Nisses Pizzeria.</p>
+
+</body>
+</html>
   
